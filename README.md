@@ -47,18 +47,15 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=cjf621&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjf621"></img>
 
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -66,9 +63,7 @@
 <!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
@@ -76,14 +71,6 @@
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cjf621&show-other-skills=true" width="auto"></img>
 
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@BEPb.github.readme)
-</br>
-
-[MIT](LICENSE)
 
 
 </p>
